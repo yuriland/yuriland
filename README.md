@@ -1,12 +1,16 @@
 <div id="header" align="center">  <p align="center">
+ <img width="410" height="150" alt="MADOHOMU GIF wow. edited by me^_^" src="https://files.catbox.moe/6aqyj0.gif"/>
+ </p>
 
+   
+  <img width="205" height="75" alt="colorful ribbon" src="https://files.catbox.moe/dg6rkb.png" />
 <div id="header" align="center">      
 <p align="center">
- $\text{\color{#060B2E}ᯃᯃ}$　　<a href="https://iwillneverforgetwhativedone.straw.page">straw</a> $\text{\color{#E17681}page}$ 　　　　 $\text{\color{#F0C4CB}𓐇。}$  </br>
- $\text{\color{#FFFDF0}𝄂𝄚𝅦𝄚}$ $\text{\color{#083EC0}𝄞}$　  <a href="https://pronouns.cc/@vee">pronouns</a>$\text{\color{#E17681}.cc}$ ⠀⠀ $\text{\color{#FFFDF0}✙}$ $\text{\color{#083EC0}ུ}$ </br>
-　
+ $\text{\color{#F0869C}ᯃᯃ}$　　<a href="https://iwillneverforgetwhativedone.straw.page">straw</a> $\text{\color{#DCD9DA}page}$ 　　　　 $\text{\color{#796F87}𓐇。}$  </br>
+ $\text{\color{#796F87}𝄂𝄚𝅦𝄚}$ $\text{\color{#BE718B}𝄞}$　  <a href="https://pronouns.cc/@vee">pronouns</a>$\text{\color{#796F87}.cc}$ ⠀⠀ $\text{\color{#402647}✙}$ $\text{\color{#5F5779}ུ}$ </br>
+
  
-  $\text{\color{#E17681}⠀⃝ }$ $\text{\color{#FFFDF0}✽}$ 　<a href="https://colormytree.me/2025/01KBA8K4GPTWGK5RBYP4D8JMA0">COLOR 　MY　 TREE!!!!</a>ㅤㅤ</br>　
+  $\text{\color{#3F3952}⠀⃝ }$ $\text{\color{#DCD9DA}✽}$ 　<a href="https://colormytree.me/2025/01KBA8K4GPTWGK5RBYP4D8JMA0">COLOR 　MY　 TREE!!!!</a>ㅤㅤ</br>　
 </p></br>
    
    
