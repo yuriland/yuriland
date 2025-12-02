@@ -1,5 +1,5 @@
 <div id="header" align="center">  <p align="center">
- <img width="410" height="150" alt="MADOHOMU GIF wow. edited by me^_^" src="https://files.catbox.moe/6aqyj0.gif"/>
+ <img width="400" height="266" alt="MADOHOMU GIF wow. edited by me^_^" src="https://files.catbox.moe/6aqyj0.gif"/>
  </p>
 
    
