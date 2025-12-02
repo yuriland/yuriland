@@ -1,8 +1,9 @@
 <div id="header" align="center">  <p align="center">
- <img width="400" height="266" alt="MADOHOMU GIF wow. edited by me^_^" src="https://files.catbox.moe/6aqyj0.gif"/>
+ <img alt="MADOHOMU GIF wow. edited by me^_^" src="https://files.catbox.moe/22gzyl.mp4" />
  </p>
-
-   
+   I HAVE NO CLUE WHY MY "GIF" NO MATTER HOW</br>
+ I FORMAT IT DOESNT COOPERATE</br>
+  </p>
   <img width="205" height="75" alt="colorful ribbon" src="https://files.catbox.moe/dg6rkb.png" />
 <div id="header" align="center">      
 <p align="center">
