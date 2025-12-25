@@ -7,8 +7,8 @@
 <p align="center">
  $\text{\color{#F0869C}ᯃᯃ}$　　<a href="https://iwillneverforgetwhativedone.straw.page">straw</a> $\text{\color{#DCD9DA}page}$ 　　　　 $\text{\color{#796F87}𓐇。}$  </br>
  $\text{\color{#796F87}𝄂𝄚𝅦𝄚}$ $\text{\color{#BE718B}𝄞}$　  <a href="https://pronouns.cc/@vee">pronouns</a>$\text{\color{#796F87}.cc}$ ⠀⠀ $\text{\color{#402647}✙}$ $\text{\color{#5F5779}ུ}$ </br>
-
-  $\text{\color{#3F3952}⠀⃝ }$ $\text{\color{#DCD9DA}✽}$ 　<a href="https://colormytree.me/2025/01KBA8K4GPTWGK5RBYP4D8JMA0">COLOR 　MY　 TREE!!!!</a>ㅤㅤ</br>　
+ 
+ 　　 $\text{\color{#3F3952}⠀⃝ }$ $\text{\color{#DCD9DA}✽}$　　　 $\text{\color{#3F3952}rentry　soon-ish}$   ㅤ　　ㅤ</br>　
 </p></br>
 <img width="205" height="75" alt="colorful ribbon" src="https://files.catbox.moe/dg6rkb.png" />
  </p>
