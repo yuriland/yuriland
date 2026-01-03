@@ -1,7 +1,10 @@
 <div id="header" align="center">  <p align="center">
- <img width="300" height="200" alt="MADOHOMU GIF wow. edited by me^_^" src="https://github-production-user-asset-6210df.s3.amazonaws.com/185622624/521070238-730ead47-927b-4f49-b193-3ceab9416f5c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251202T010919Z&X-Amz-Expires=300&X-Amz-Signature=b7e4c057ec25d960194476e65b68501ee0e9ce60d1cb8980d5c60136f47e6f2d&X-Amz-SignedHeaders=host" />
+ </p>
+ 
 
-  </p>
+ <img width="300" height="200" alt="MADOHOMU GIF wow. edited by me^_^" src="https://files.catbox.moe/6aqyj0.gif" />
+
+‎‎
 
 <div id="header" align="center">      
 <p align="center">
